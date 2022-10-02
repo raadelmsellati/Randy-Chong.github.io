@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background: goldenrod;
+    text-align: center;
+}
+.arrows {
+    width: 15%; 
+     }
+.sushi {
+    width: 60%;
+}

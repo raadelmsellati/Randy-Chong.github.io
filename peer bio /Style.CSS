@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body { 
     background:blue; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -9,9 +8,7 @@ h1 {
     border:1px solid white;
 }
 div {
-    border: 4px;px transparent green;
+    border: 4pxpx solid green;
     padding:60px;
+    margin:80px; 
 }
-=======
-
->>>>>>> dca16d6192a16b70547aada2e30226f139fd5951
