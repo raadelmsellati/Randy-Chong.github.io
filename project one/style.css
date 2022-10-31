@@ -1,6 +1,12 @@
 body {
     margin: 0;
     text-align: center;
+
+}
+
+body1 {
+    margin: 0;
+    text-align: left;
 }
 .big_screen {
     width: 60%
