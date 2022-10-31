@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    background: rgb(201, 191, 191);
+    text-align: center;
+}
+.big_screen {
+    width: 60%
+}
